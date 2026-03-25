@@ -13,10 +13,10 @@ The dashboard provides insights into employee distribution, attrition trends, pe
 🧹 Data Preparation
 
 Cleaned inconsistent values and handled missing data,
-Standardized categorical fields (Gender, Department, Attrition)
-
+Standardized categorical fields (Gender, Department, Attrition),
 
 Created calculated fields for better analysis:
+
 Attrition Rate
 
 Performance Score
