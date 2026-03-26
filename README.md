@@ -51,24 +51,6 @@ The dataset contains employee-level information, including:
 * **Average Years at Company**
 * **Job Satisfaction Score**
 
----
-
-
-## 📈 Key Insights
-
-* Higher attrition observed among employees with lower tenure
-* Certain departments show significantly higher turnover
-* Job satisfaction has a direct impact on employee retention
-* Younger employees tend to switch jobs more frequently
-
----
-
-## 💡 Business Recommendations
-
-* Improve employee engagement and satisfaction programs
-* Focus on retention strategies for high-risk departments
-* Offer growth opportunities for early-career employees
-* Implement data-driven HR policies
 
 ---
 
